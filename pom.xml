@@ -13,7 +13,7 @@
 
   <properties>
 
-    <main.class>io.c6.justmoveitkotlin.HelloKt</main.class>
+    <main.class>io.c6.justmoveitkotlin.MainKt</main.class>
 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
